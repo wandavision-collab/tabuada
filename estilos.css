@@ -1,0 +1,12 @@
+body{
+    background-image: url(img/topp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    font-size: 35px;
+}
+
+#saida{
+    text-align: center;
+    align-items: center;
+}
